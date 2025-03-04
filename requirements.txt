@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+openai
+yt-dlp
+qrcode
+requests
+pillow
